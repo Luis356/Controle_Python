@@ -42,6 +42,7 @@ def listar_arquivos():
     caminho = input("Digite o caminho do diretório (pressione Enter para usar o diretório atual): ") or '.'
     
     try:
+        limpar_tela()
         arquivos = os.listdir(caminho)
         print(f"\n📂 Arquivos em '{caminho}':")
         for arquivo in arquivos:
