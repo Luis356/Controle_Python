@@ -28,7 +28,6 @@ Este projeto tem como objetivo facilitar a navegação e manipulação de diret�
 ## Estrutura do Projeto
 
 ```
-.
 ├── diretorioseta.py
 ├── README.md
 ```
