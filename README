@@ -1,0 +1,46 @@
+# Projeto: diretorioseta.py
+
+Este projeto tem como objetivo facilitar a navegação e manipulação de diretórios utilizando Python. O script `diretorioseta.py` permite ao usuário listar, criar, renomear e excluir pastas de forma simples e interativa.
+
+## Funcionalidades
+
+- Listar diretórios e arquivos em um caminho especificado
+- Criar novos diretórios
+- Renomear pastas existentes
+- Excluir diretórios e arquivos
+- Interface de linha de comando amigável
+
+## Requisitos
+
+- Python 3.x
+
+## Como usar
+
+1. Clone este repositório ou copie o arquivo `diretorioseta.py` para seu computador.
+2. Execute o script pelo terminal:
+
+    ```
+    python diretorioseta.py
+    ```
+
+3. Siga as instruções exibidas na tela para gerenciar seus diretórios.
+
+## Estrutura do Projeto
+
+```
+.
+├── diretorioseta.py
+├── README.md
+```
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, correções ou novas funcionalidades.
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
+
+## Contato
+
+Para dúvidas ou sugestões, entre em contato pelo e-mail: luisricardo1356@gmail.com
